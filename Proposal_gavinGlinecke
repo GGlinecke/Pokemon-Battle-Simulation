@@ -1,0 +1,33 @@
+# Proposal_GavinGlinecke
+
+## What will (likely) be the title of your project?
+
+Pokemon Battle Simulator
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A program that lets you choose a pokemon and fight the opponent's pokemon on-screen.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+The software will prompt which pokemon(out of 6) you would like to choose, then choose from either 4 set moves or an attack/defend options. I will use Pygame to make the visual aspect of attacks and the health bars. Create visuals of pokemon being throw in their pokeball on entry, and hopefully movements for each attack.(prob copy some movements) On 0 HP pokemon will faint and winner will be prompted on the screen.
+
+
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A turn based pokemon match which ends in someone reaching 0 HP and prompt the win/loss
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A turn based pokemon match with visual choices of your 6 pokemon. When chosen, a pokeball is thrown, and the pokemon will have some effect when coming out. When attacking move towards opponent with hit visual and vice versa. Once at 0 HP the losing pokemon will fall and die. Basically copy pokemon game movements and some visuals.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+A turn based pokemon match with visual choices of your 6 pokemon. Visual box choices for each (attack/choose pokemon/bag) battle function which allows for a move to be chosen, swap pokemon, and access your bag that holds a berry or something similar. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+First thing to do is get on learning how to use PyGame. I haven't heard much about this other than it is useful for creating simple visuals. Also I'll be re-reading our chapters on runestone.
