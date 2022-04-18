@@ -1,0 +1,31 @@
+# Status Report
+
+#### Your name
+
+Gavin Glinecke
+
+#### Your section leader's name
+
+Gavin
+
+#### Project title
+
+Pokemon Battle Simulation
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I read how to use the imported Pygame, like assigning actions/movements with each physical key. I also looked at end examples of Pokemon remakes with Pygame
+and see how it should move and look. I also have an outline of the pokemon I'm including in the game and the moves along with them, which I will implement with the use of Pygame.
+
+#### What have you not done for your project yet?
+
+I haven't started coding my Pygame code as I did most research this weekend.
+
+#### What problems, if any, have you encountered?
+
+I haven't found much time for learning Pygame, so the biggest part of my project is just being started. My other classes have other final projects due
+this week, so managing my time was the only main challenge for me. Fortunately, I have much more time after today to put everything together.
